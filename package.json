@@ -1,0 +1,25 @@
+{
+  "name": "takeapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahnaoliv/TakeAPI.git"
+  },
+  "keywords": [],
+  "author": "Mariana Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahnaoliv/TakeAPI/issues"
+  },
+  "homepage": "https://github.com/nahnaoliv/TakeAPI#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
